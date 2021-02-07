@@ -1,10 +1,8 @@
 # Project Proposal
-___________________________________________________________________________________________________
 
 # Project title
 Fulfill
 
-___________________________________________________________________________________________________
 
 # What and why?
 Fulfill is a a web-based application where patients can submit their personal, medically relevant information to a secure database.
@@ -13,17 +11,15 @@ This request would contain all the necessary information the doctors office need
 
 The reason for this is product is to streamline the need to fill out different forms for different doctors (general practitioners, mental health professionals, surgeons, etc.).
 
-___________________________________________________________________________________________________
 
 # For whom?
 
 This software would benefit both patients and medical professionals, with the added benefit of reducing redundant form filling and paper waste.
 
-___________________________________________________________________________________________________
 
 # How?
 
-THere will be a patient as well as a medical professional portal. The patient portal will host a patients medical information,
+There will be a patient as well as a medical professional portal. The patient portal will host a patients medical information,
 while the medical professional portal will host submitted/approved requests for the doctors to reference.
 A secure database that masks sensitive information would be required for both portals, both from a privacy perspective, and from a medical compliance perspective.
 A message system would need to be created if, for instance, a medical form requires information that the user has not uploaded to their profile.
